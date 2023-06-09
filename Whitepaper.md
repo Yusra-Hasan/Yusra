@@ -66,9 +66,9 @@ Vehicle electrification is the newest and the widest growing trend in the automo
 
 Transportation contributes upto a quarter of Greenhouse Gas Emissions (GGE). The combustion of fossil fuels in traditional internal combustion engines (ICEs) releases carbon dioxide CO2  into the atmosphere which contributes majorly to the global warming.
 
-According to an estimate by the International Energy Agency (IEA) the global carbon dioxide emissions emanating from the combustion of fossil fuel would rise from 31.2 gigatons (Gt) in 2011 to 37.0 Gt in 2035 if the existing policy commitments are executed in future [^1]. Whereas, the emissions will decline steadily to 30.5 Gt in 2035 after reaching its peak at 32.4 Gt in 2020 in the Efficient World Scenario 1. The Efficient World Scenario takes into consideration of execution of all energy efficient investment and adoption of policies that promote energy efficient market scenario.
+According to an estimate by the International Energy Agency (IEA) the global carbon dioxide emissions emanating from the combustion of fossil fuel would rise from 31.2 gigatons (Gt) in 2011 to 37.0 Gt in 2035 if the existing policy commitments are executed in future [^1]. Whereas, the emissions will decline steadily to 30.5 Gt in 2035 after reaching its peak at 32.4 Gt in 2020 in the Efficient World Scenario [^1]. The Efficient World Scenario takes into consideration of execution of all energy efficient investment and adoption of policies that promote energy efficient market scenario.
 
-Of the total emissions, the electricity and heat sector accounts for 50.14% and the transport sector accounts for 22.43 % of the total global emissions 1. As far as electricity and heat sector is concerned, most countries have a stable structure towards energy generation. However, transport sector can contribute to reduction of CO2 emissions significantly not only in the transport sector only but also in the energy sector by increasing the proportion of non-fossil fuel energy.
+Of the total emissions, the electricity and heat sector accounts for 50.14% and the transport sector accounts for 22.43 % of the total global emissions [^1]. As far as electricity and heat sector is concerned, most countries have a stable structure towards energy generation. However, transport sector can contribute to reduction of CO2 emissions significantly not only in the transport sector only but also in the energy sector by increasing the proportion of non-fossil fuel energy.
 ![image](https://github.com/Yusra-Hasan/Yusra/assets/135500149/5bdac3ae-9cf3-49c5-9c62-f8a3d41289af)
 
 
@@ -100,13 +100,13 @@ Adoption of EV technology involves electricity generation and setting up of batt
 
 
 
-The cost will decrease as the configurations are made simpler and increase in production brings economies of scale. The global EV production increased from more than 1.7 to 7.3 million units from the year 2019 to 2022 3.  As a greater number of EV’s proliferate into the market, the competition will increase thus further driving down the overall cost. Further, widespread research and innovations will also bring improvement in technologies, bringing the overall cost down. It is expected that the overall volume of EV’s will be at par with Internal Combustion Engine (ICE)  by 2025.
+The cost will decrease as the configurations are made simpler and increase in production brings economies of scale. The global EV production increased from more than 1.7 to 7.3 million units from the year 2019 to 2022 [^3].  As a greater number of EV’s proliferate into the market, the competition will increase thus further driving down the overall cost. Further, widespread research and innovations will also bring improvement in technologies, bringing the overall cost down. It is expected that the overall volume of EV’s will be at par with Internal Combustion Engine (ICE)  by 2025.
 
 ## Meeting the infrastructure barriers
 
-While EV’s are the future of energy and transport sector, the right infrastructure is an indispensable necessity to eliminate reluctance from its adoption by the consumers. According to Volvo study 50% of the potential buyers are reluctant to buy EV due to the lack of robust charging infrastructure 4. Also, more than 55% of the potential drivers claim that range anxiety and fear of running out of the fuel is keeping them away from buying EV’s 4.  However, once they shift their preference to an an EV, it is rare chance for them to shift their preference to an ICE vehicle.
+While EV’s are the future of energy and transport sector, the right infrastructure is an indispensable necessity to eliminate reluctance from its adoption by the consumers. According to Volvo study 50% of the potential buyers are reluctant to buy EV due to the lack of robust charging infrastructure 4. Also, more than 55% of the potential drivers claim that range anxiety and fear of running out of the fuel is keeping them away from buying EV’s [^4]. However, once they shift their preference to an an EV, it is rare chance for them to shift their preference to an ICE vehicle.
 
-Several companies have ambitious plans towards EV adoption. Lyft is all set to join Amazon and UPS in converting its entire fleet to EV. Ryder Trucks and ABB have partnered with In-charge to convert their fleets to EV. Tesla is already holding over 650,000 cybertruck reservations. One of the bolder moves by Volvo is to end its gas powered vehicles by 2025. Ford is all set to announce its Electric Vehicle Centre.
+Several companies have ambitious plans towards EV adoption. **Lyft** is all set to join **Amazon** and **UPS** in converting its entire fleet to EV. **Ryder Trucks** and **ABB** have partnered with **In-charge** to convert their fleets to EV. **Tesla** is already holding over 650,000 cybertruck reservations. One of the bolder moves by **Volvo** is to end its gas powered vehicles by 2025. **Ford** is all set to announce its Electric Vehicle Centre.
 
 This kind of mass adoption requires a suitable infrastructure to upgrade the industry trend. The battery charging units, the must need of an EV infrastructure, need to be sufficiently made available. The businesses ought to take a leap to make the charging facilities available to attract more visitors. The hospitality industry, the retail industry, the workplaces require an upgrade in their electrical infrastructure in their buildings to upgrade the industry. 
 
@@ -122,7 +122,7 @@ This kind of mass adoption requires a suitable infrastructure to upgrade the ind
 
 
 
-3 Gifford D., Barrot M., Lee D. (2023, May 5).  Disruptive EV technologies drive new supplier realities. Plante moran. https://go.plantemoran.com/rs/946-CTY-601/images/EV_Disruptive_technologies_Plante_Moran.pdf
+[^3]: Gifford D., Barrot M., Lee D. (2023, May 5).  Disruptive EV technologies drive new supplier realities. Plante moran. https://go.plantemoran.com/rs/946-CTY-601/images/EV_Disruptive_technologies_Plante_Moran.pdf
 
 4  Vosper P. (2021, Jan27). Mass Adoption of Electric Vehicle Triggers Need Infrastructure Changes. Forbes. https://www.forbes.com/sites/forbestechcouncil/2021/01/27/mass-adoption-of-electric-vehicles-triggers-needed-infrastructure-changes/
 
