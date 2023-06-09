@@ -124,7 +124,7 @@ This kind of mass adoption requires a suitable infrastructure to upgrade the ind
 
 [^3]: Gifford D., Barrot M., Lee D. (2023, May 5).  Disruptive EV technologies drive new supplier realities. Plante moran. https://go.plantemoran.com/rs/946-CTY-601/images/EV_Disruptive_technologies_Plante_Moran.pdf
 
-[4]: Vosper P. (2021, Jan27). Mass Adoption of Electric Vehicle Triggers Need Infrastructure Changes. Forbes. https://www.forbes.com/sites/forbestechcouncil/2021/01/27/mass-adoption-of-electric-vehicles-triggers-needed-infrastructure-changes/
+[^4]: Vosper P. (2021, Jan27). Mass Adoption of Electric Vehicle Triggers Need Infrastructure Changes. Forbes. https://www.forbes.com/sites/forbestechcouncil/2021/01/27/mass-adoption-of-electric-vehicles-triggers-needed-infrastructure-changes/
 
 
 Governments need to partner with innovative companies and invest in building more public and private charging stations to increase accessibility for EV owners. According to an estimate, 2.8 million public charge points and 2.4 million private charge points will be needed in Europe by 2030. In USA 1.1 million public charge points will be needed by 2030 [^5]. This will encourage more people to switch to EVs without worrying about running out of battery power. Battery swapping stations where depleted battery can be exchanged for the new ones can also be a novel idea for longer travels. Grid expansion and enhancement also requires coordinated plans to ensure that EV’s become a source of grid stability rather than pose a challenge. Overall, they will lead to multi value generation by bringing energy efficiency and affordable mobility.
@@ -142,9 +142,9 @@ According to a forecast project, global EV volumes are projected to grow at a 22
 
 
 
-5  Colle. S. (2023, March 21). Six essentials for mainstream EV adoption.EY. https://www.ey.com/en_us/energy-resources/six-essentials-for-mainstream-ev-adoption
+[^5]: Colle. S. (2023, March 21). Six essentials for mainstream EV adoption.EY. https://www.ey.com/en_us/energy-resources/six-essentials-for-mainstream-ev-adoption
 
-6  Gifford D., Barrot M., Lee D. (2023, May 5).  Disruptive EV technologies drive new supplier realities. Plante moran. https://go.plantemoran.com/rs/946-CTY-601/images/EV_Disruptive_technologies_Plante_Moran.pdf
+[6^]: Gifford D., Barrot M., Lee D. (2023, May 5).  Disruptive EV technologies drive new supplier realities. Plante moran. https://go.plantemoran.com/rs/946-CTY-601/images/EV_Disruptive_technologies_Plante_Moran.pdf
 
 
 
@@ -171,41 +171,41 @@ China, Europe and United States are the biggest drivers in undertaking policy me
 
 China has received massive encouragement from government and general public towards adoption of EV’s owing to the huge level of pollution. Shanghai had the world’s first fleet of fully electric vehicles in 2010 during the World EXPO. These buses were used to drive passengers to and fro.  Since then, there has been a continuous rise of EV’s, and a good number of measures have been taken to encourage EV adoption.  
 
-China has set the goal of having 40 % of the EV vehicles out of the total vehicles sold 7.  Government has poured millions of Yuan as a subsidy to encourage adoption of EV’s in the year 2009. The subsidy was supposed to phase out by the year 2020, although it was extended due to covid. A mandate was imposed by the government on the auto makers that a certain percentage of the total cars manufactured by them should be battery powered. The manufacturers must earn a certain number of points to produce EV’s based on range, energy efficiency and overall performance. According to William H. Green, the Hoyt C. Hottel Professor in Chemical Engineering. “This is one of the strongest mandates for electric cars worldwide, and it’s being imposed on the largest car market in the world”.   
+China has set the goal of having 40 % of the EV vehicles out of the total vehicles sold [^7].  Government has poured millions of Yuan as a subsidy to encourage adoption of EV’s in the year 2009. The subsidy was supposed to phase out by the year 2020, although it was extended due to covid. A mandate was imposed by the government on the auto makers that a certain percentage of the total cars manufactured by them should be battery powered. The manufacturers must earn a certain number of points to produce EV’s based on range, energy efficiency and overall performance. According to William H. Green, the Hoyt C. Hottel Professor in Chemical Engineering. “This is one of the strongest mandates for electric cars worldwide, and it’s being imposed on the largest car market in the world”.   
 
-China is also in the process of ending the sale of fossil fuel cars in urban areas of the tropical island in China by 2030. The success of this goal can provide a blueprint for the entire country. The island has more than 75,000 charging points with EV owners not more than a mile or two away from the power station 7. 
+China is also in the process of ending the sale of fossil fuel cars in urban areas of the tropical island in China by 2030. The success of this goal can provide a blueprint for the entire country. The island has more than 75,000 charging points with EV owners not more than a mile or two away from the power station [^7]. 
 
 
 ### Europe
 
-Europe showed continued growth upto 65% after the 2020 boom 8.  The largest market in Europe remains Germany where EV sales accounted for 25 % of the total car sales 8. Germany has set a goal of having 10 million electric vehicles on the road by 2030 and has introduced highest subsidy programs in the Europe. The highest market share for new electric car sales in Europe in the year 2021 are Norway 86%, Iceland 72%, Sweden 43% and the Netherlands 30%, France 19%, Italy 9% and Spain 8% 8. The spread of cars on European road is evenly divided between the Battery Electric Vehicles (BEV) and Plugin Hybrid Electric Vehicles (PHEV) unlike China where BEV takes a clear lead. PHEV buys are more attractive given the offerings by automakers and original equipment manufacturers (OEMs).
+Europe showed continued growth upto 65% after the 2020 boom 8.  The largest market in Europe remains Germany where EV sales accounted for 25 % of the total car sales [^8]. Germany has set a goal of having 10 million electric vehicles on the road by 2030 and has introduced highest subsidy programs in the Europe. The highest market share for new electric car sales in Europe in the year 2021 are Norway 86%, Iceland 72%, Sweden 43% and the Netherlands 30%, France 19%, Italy 9% and Spain 8% [^8]. The spread of cars on European road is evenly divided between the Battery Electric Vehicles (BEV) and Plugin Hybrid Electric Vehicles (PHEV) unlike China where BEV takes a clear lead. PHEV buys are more attractive given the offerings by automakers and original equipment manufacturers (OEMs).
 
 
 
 
 
 
-7 Stauffer, N.W.  (2021, April 29) China’s transition to electric vehicles. MIT News. https://news.mit.edu/2021/chinas-transition-electric-vehicles-0429
+[^7]: Stauffer, N.W.  (2021, April 29) China’s transition to electric vehicles. MIT News. https://news.mit.edu/2021/chinas-transition-electric-vehicles-0429
 
-8  Global EV Outlook. . https://iea.blob.core.windows.net/assets/dacf14d2-eabc-498a-8263-9f97fd5dc327/GEVO2023.pdf
-Many European governments come up with their innovative tax break programs, subsidies and special privileges. Norway offers a generous subsidy package of EUR 17000 on purchase of EV in comparison to on purchase of an ICE 9.  A one-time premium ranging from GPB 4000-7000 (depending on the price of vehicle) is also paid by the government of the United Kingdom (UK) on all the vehicles emitting less than 75 gm/km 9. Purchase tax, lease tax and road tax are being eased by the government to encourage EV purchases. Preferred parking, special driving lanes and toll fee waiver are some other incentives to encourage EV adoption. In Paris, preferred parking is available to EV drivers. Oslo allows the EV car drivers to drive in bus and taxi lanes 9. 
+[^8]:  Global EV Outlook. . https://iea.blob.core.windows.net/assets/dacf14d2-eabc-498a-8263-9f97fd5dc327/GEVO2023.pdf
+Many European governments come up with their innovative tax break programs, subsidies and special privileges. Norway offers a generous subsidy package of EUR 17000 on purchase of EV in comparison to on purchase of an ICE [^9].  A one-time premium ranging from GPB 4000-7000 (depending on the price of vehicle) is also paid by the government of the United Kingdom (UK) on all the vehicles emitting less than 75 gm/km [^9]. Purchase tax, lease tax and road tax are being eased by the government to encourage EV purchases. Preferred parking, special driving lanes and toll fee waiver are some other incentives to encourage EV adoption. In Paris, preferred parking is available to EV drivers. Oslo allows the EV car drivers to drive in bus and taxi lanes [^9]. 
 
-Many governments are making investments towards EV support infrastructure like charging stations and special parking spots. Estonia for example installed 165 fast chargers throughout the country 9. The government has been dedicating funds towards research and development and mobility programs. 
+Many governments are making investments towards EV support infrastructure like charging stations and special parking spots. Estonia for example installed 165 fast chargers throughout the country [^9]. The government has been dedicating funds towards research and development and mobility programs. 
 
 ### United States
 
-The United States showed an uptick in EV sales in 2021 after two years of consecutive of 10%. 10. with California being the state with the highest number of electric vehicle sales. The sale of BEVs also reached a relatively higher percentage in comparison with PHEVs. 
+The United States showed an uptick in EV sales in 2021 after two years of consecutive of 10%. [^10]. with California being the state with the highest number of electric vehicle sales. The sale of BEVs also reached a relatively higher percentage in comparison with PHEVs. 
 
-The government has offered incentives such as rebates to encourage EV ownership by offsetting the total upfront cost of the EV’s. The country has several states that have implemented zero emission vehicle program (ZEV) under which the auto makers are required to produce a certain number of battery electric or plug-in hybrid electric vehicles. The laws which ban the sale of vehicles powered by gas by 2035 have also been brought into effect. The Inflation Reduction Act passed in 2022 also allows for credit available upto $7500 for the purchase of EV’s upto 2035 11. Infrastructure Investment and Jobs Act passed in 2021, aims to allocate $7.5 Billion towards building of infrastructure necessary for EV charging 11. The legislation not only included charging stations but also upgrading of the power grid to accommodate the demand of the growing electricity towards battery required by EV’s.
+The government has offered incentives such as rebates to encourage EV ownership by offsetting the total upfront cost of the EV’s. The country has several states that have implemented zero emission vehicle program (ZEV) under which the auto makers are required to produce a certain number of battery electric or plug-in hybrid electric vehicles. The laws which ban the sale of vehicles powered by gas by 2035 have also been brought into effect. The Inflation Reduction Act passed in 2022 also allows for credit available upto $7500 for the purchase of EV’s upto 2035 [^11]. Infrastructure Investment and Jobs Act passed in 2021, aims to allocate $7.5 Billion towards building of infrastructure necessary for EV charging [^11]. The legislation not only included charging stations but also upgrading of the power grid to accommodate the demand of the growing electricity towards battery required by EV’s.
 
 The automakers are investing billions of dollars towards EV oriented research and development. They have plans to come out with a greater number of models offering the consumers a wider choice. Also, most of the automakers are aiming to end production of gas-powered vehicles in future. The major player in US is Tesla which accounts for over half of the units sold. 
 
 
-9 Evolution. Electric Vehicles in Europe: gearing up for a new phase? Evolution. Electric Vehicles in Europe: gearing up for a new phase? https://www.mckinsey.com/~/media/mckinsey/locations/europe%20and%20middle%20east/netherlands/our%20insights/electric%20vehicles%20in%20europe%20gearing%20up%20for%20a%20new%20phase/electric%20vehicles%20in%20europe%20gearing%20up%20for%20a%20new%20phase.ashx
+[^9]: Evolution. Electric Vehicles in Europe: gearing up for a new phase? Evolution. Electric Vehicles in Europe: gearing up for a new phase? https://www.mckinsey.com/~/media/mckinsey/locations/europe%20and%20middle%20east/netherlands/our%20insights/electric%20vehicles%20in%20europe%20gearing%20up%20for%20a%20new%20phase/electric%20vehicles%20in%20europe%20gearing%20up%20for%20a%20new%20phase.ashx
 
-10 Global EV Outlook 2023. https://iea.blob.core.windows.net/assets/dacf14d2-eabc-498a-8263-9f97fd5dc327/GEVO2023.pdf
+[^10]: Global EV Outlook 2023. https://iea.blob.core.windows.net/assets/dacf14d2-eabc-498a-8263-9f97fd5dc327/GEVO2023.pdf
 
-11 Colato, Ice. Charging into the future: the transition to electric vehicles, U.S. Bureau of Labor Statistics. https://www.bls.gov/opub/btn/volume-12/charging-into-the-future-the-transition-to-electric-vehicles.htm
+[^11]: Colato, Ice. Charging into the future: the transition to electric vehicles, U.S. Bureau of Labor Statistics. https://www.bls.gov/opub/btn/volume-12/charging-into-the-future-the-transition-to-electric-vehicles.htm
 
 ## Conclusion
 
