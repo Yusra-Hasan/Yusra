@@ -66,13 +66,13 @@ Vehicle electrification is the newest and the widest growing trend in the automo
 
 Transportation contributes upto a quarter of Greenhouse Gas Emissions (GGE). The combustion of fossil fuels in traditional internal combustion engines (ICEs) releases carbon dioxide CO2  into the atmosphere which contributes majorly to the global warming.
 
-According to an estimate by the International Energy Agency (IEA) the global carbon dioxide emissions emanating from the combustion of fossil fuel would rise from 31.2 gigatons (Gt) in 2011 to 37.0 Gt in 2035 if the existing policy commitments are executed in future 1. Whereas, the emissions will decline steadily to 30.5 Gt in 2035 after reaching its peak at 32.4 Gt in 2020 in the Efficient World Scenario 1. The Efficient World Scenario takes into consideration of execution of all energy efficient investment and adoption of policies that promote energy efficient market scenario.
+According to an estimate by the International Energy Agency (IEA) the global carbon dioxide emissions emanating from the combustion of fossil fuel would rise from 31.2 gigatons (Gt) in 2011 to 37.0 Gt in 2035 if the existing policy commitments are executed in future [^1]. Whereas, the emissions will decline steadily to 30.5 Gt in 2035 after reaching its peak at 32.4 Gt in 2020 in the Efficient World Scenario 1. The Efficient World Scenario takes into consideration of execution of all energy efficient investment and adoption of policies that promote energy efficient market scenario.
 
 Of the total emissions, the electricity and heat sector accounts for 50.14% and the transport sector accounts for 22.43 % of the total global emissions 1. As far as electricity and heat sector is concerned, most countries have a stable structure towards energy generation. However, transport sector can contribute to reduction of CO2 emissions significantly not only in the transport sector only but also in the energy sector by increasing the proportion of non-fossil fuel energy.
 ![image](https://github.com/Yusra-Hasan/Yusra/assets/135500149/5bdac3ae-9cf3-49c5-9c62-f8a3d41289af)
 
 
-1 Zhang, Xie, Rao, Liang. (2104, Nov. 14). Policy Incentives for Adoption of Electric Vehicles Across Countries. MDPI. https://www.mdpi.com/2071-1050/6/11/8056
+[^1]: Zhang, Xie, Rao, Liang. (2104, Nov. 14). Policy Incentives for Adoption of Electric Vehicles Across Countries. MDPI. https://www.mdpi.com/2071-1050/6/11/8056
 EV’s meet the societal urgency to decarbonize the planet
 
 
