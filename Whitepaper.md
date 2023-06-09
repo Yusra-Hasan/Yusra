@@ -54,7 +54,8 @@ CONCLUSION	9
 
 Vehicle electrification is the newest and the widest growing trend in the automobile industry. Necessitated by societal and political emergency to decarbonize the planet, Electric Vehicles (EV) have become the most popular technology in the auto sector sought by consumers and automakers interest alike. Innovative technologies are coming up at an unexpected rate which has opened the possibilities for more and more options, reduced battery price and more convenient maintenance. As a result, auto industry is taking newer bolder moves towards electrification of vehicles. This paper provides insight on   the need for adoption of EV’s as a climatic necessity and different policies adopted by different countries to boost the rate of EV adoption. 
 
-
+! [Tux] (images/tux.png) ![image](https://github.com/Yusra-Hasan/Yusra/assets/135500149/0418566a-e235-48cd-ab4c-70ff0d303f55)
+ 
 
 
 ## Global climatic concerns
