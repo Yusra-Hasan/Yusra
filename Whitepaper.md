@@ -18,7 +18,6 @@ Industry.
 
 
 | EXECUTIVE SUMMARY | 2 |
-|-------------------|---|
 | GLOBAL CLIMATIC CONCERNS | 4 |
 |--------------------------|---|
 | EV’S MEET THE SOCIETAL URGENCY TO DECARBONIZE | 5 |
