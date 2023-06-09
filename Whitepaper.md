@@ -124,17 +124,17 @@ This kind of mass adoption requires a suitable infrastructure to upgrade the ind
 
 [^3]: Gifford D., Barrot M., Lee D. (2023, May 5).  Disruptive EV technologies drive new supplier realities. Plante moran. https://go.plantemoran.com/rs/946-CTY-601/images/EV_Disruptive_technologies_Plante_Moran.pdf
 
-4  Vosper P. (2021, Jan27). Mass Adoption of Electric Vehicle Triggers Need Infrastructure Changes. Forbes. https://www.forbes.com/sites/forbestechcouncil/2021/01/27/mass-adoption-of-electric-vehicles-triggers-needed-infrastructure-changes/
+[4]: Vosper P. (2021, Jan27). Mass Adoption of Electric Vehicle Triggers Need Infrastructure Changes. Forbes. https://www.forbes.com/sites/forbestechcouncil/2021/01/27/mass-adoption-of-electric-vehicles-triggers-needed-infrastructure-changes/
 
 
-Governments need to partner with innovative companies and invest in building more public and private charging stations to increase accessibility for EV owners. According to an estimate, 2.8 million public charge points and 2.4 million private charge points will be needed in Europe by 2030. In USA 1.1 million public charge points will be needed by 2030 5 This will encourage more people to switch to EVs without worrying about running out of battery power. Battery swapping stations where depleted battery can be exchanged for the new ones can also be a novel idea for longer travels. Grid expansion and enhancement also requires coordinated plans to ensure that EV’s become a source of grid stability rather than pose a challenge. Overall, they will lead to multi value generation by bringing energy efficiency and affordable mobility.
+Governments need to partner with innovative companies and invest in building more public and private charging stations to increase accessibility for EV owners. According to an estimate, 2.8 million public charge points and 2.4 million private charge points will be needed in Europe by 2030. In USA 1.1 million public charge points will be needed by 2030 [^5]. This will encourage more people to switch to EVs without worrying about running out of battery power. Battery swapping stations where depleted battery can be exchanged for the new ones can also be a novel idea for longer travels. Grid expansion and enhancement also requires coordinated plans to ensure that EV’s become a source of grid stability rather than pose a challenge. Overall, they will lead to multi value generation by bringing energy efficiency and affordable mobility.
 
 Overall, overcoming infrastructure barriers for the adoption of EVs will require a collaborative effort between governments, private companies, and local communities. By investing in charging infrastructure and providing financial incentives, EVs can become more accessible and affordable for everyone, leading to a cleaner and more sustainable future.
 
 ## Current market share and projected market share in major markets
 
 The past five years have seen a significant rise in adoption of EV’s in all the major markets. Not only drivers are buying EV’s at a significantly increasing pace, bus and truck segments are taking over the EV market scenario specially as the prices become highly competitive in comparison with the alternative gasoline. 
-EV sales doubled in 2021 and jumped to 55% in 2022 accounting to 13 % of all vehicle sales. In 2022 market share is highest in China at 27%  followed by Europe at 20% and the United States with 7% 6.
+EV sales doubled in 2021 and jumped to 55% in 2022 accounting to 13 % of all vehicle sales. In 2022 market share is highest in China at 27%  followed by Europe at 20% and the United States with 7% [^6].
 
 According to a forecast project, global EV volumes are projected to grow at a 22% compound annual growth rate (CAGR) through 2035. China and Europe will be leading in production with China accounting for approximately 75% of vehicle production while Europe will account for 76% of vehicle production. North America is projected to adopt EV’s at 58% in 2035 6.
 
