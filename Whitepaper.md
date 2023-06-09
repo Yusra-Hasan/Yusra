@@ -136,7 +136,7 @@ Overall, overcoming infrastructure barriers for the adoption of EVs will require
 The past five years have seen a significant rise in adoption of EV’s in all the major markets. Not only drivers are buying EV’s at a significantly increasing pace, bus and truck segments are taking over the EV market scenario specially as the prices become highly competitive in comparison with the alternative gasoline. 
 EV sales doubled in 2021 and jumped to 55% in 2022 accounting to 13 % of all vehicle sales. In 2022 market share is highest in China at 27%  followed by Europe at 20% and the United States with 7% [^6].
 
-According to a forecast project, global EV volumes are projected to grow at a 22% compound annual growth rate (CAGR) through 2035. China and Europe will be leading in production with China accounting for approximately 75% of vehicle production while Europe will account for 76% of vehicle production. North America is projected to adopt EV’s at 58% in 2035 6.
+According to a forecast project, global EV volumes are projected to grow at a 22% compound annual growth rate (CAGR) through 2035. China and Europe will be leading in production with China accounting for approximately 75% of vehicle production while Europe will account for 76% of vehicle production. North America is projected to adopt EV’s at 58% in 2035 [^6].
 
 
 
@@ -144,7 +144,7 @@ According to a forecast project, global EV volumes are projected to grow at a 22
 
 [^5]: Colle. S. (2023, March 21). Six essentials for mainstream EV adoption.EY. https://www.ey.com/en_us/energy-resources/six-essentials-for-mainstream-ev-adoption
 
-[6^]: Gifford D., Barrot M., Lee D. (2023, May 5).  Disruptive EV technologies drive new supplier realities. Plante moran. https://go.plantemoran.com/rs/946-CTY-601/images/EV_Disruptive_technologies_Plante_Moran.pdf
+[^6]: Gifford D., Barrot M., Lee D. (2023, May 5).  Disruptive EV technologies drive new supplier realities. Plante moran. https://go.plantemoran.com/rs/946-CTY-601/images/EV_Disruptive_technologies_Plante_Moran.pdf
 
 
 
